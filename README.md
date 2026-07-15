@@ -1,4 +1,3 @@
-# CMUNeXt Boundary-Aware Breast Ultrasound Segmentation
 
 > Research project extending **CMUNeXt** for lightweight boundary-aware breast ultrasound image segmentation.
 
